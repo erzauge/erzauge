@@ -1,5 +1,9 @@
 ## Hi there 👋
+this is a collection of projets that I expermet in my free time.
 
+[A test of an GPU Conecte Cluster Findg Algorthem](https://github.com/erzauge/test_gpu_ccl)
+
+[Firmware for a keboard ](https://github.com/erzauge/keyboard)
 <!--
 **erzauge/erzauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
